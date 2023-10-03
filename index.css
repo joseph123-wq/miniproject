@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+    text-align: center;
+
+}
+
+
+h2 {
+    font-weight: 900;
+    text-align: center;
+}
+
+.json-code {
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+    font-family: 'Courier New', Courier, monospace;
+    white-space: pre-wrap;
+}
+
+
+
